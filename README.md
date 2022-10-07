@@ -1,6 +1,6 @@
 - :wave: Hi, I’m @cdixson, Chris. You're viewing my personal GitHub page. My professional page is [here](https://github.com/cdixson1) (although my repos are private, it is the government after all).
 
-- :business_suit_levitating: I’m a Programmer and Web Developer, contractor with IBSS CORP in support of NOAA Fisheries, Northeast Fisheries Science Center, Data and Information Systems Branch,  U.S. Department of Commerce. If you want more info, my [LinkedIn](https://www.linkedin.com/in/cdixson/) page goes into all the boring details.
+- :business_suit_levitating: I’m a Programmer and Web Developer, contractor with [IBSS CORP](https://www.ibsscorp.com/) in support of NOAA Fisheries, Northeast Fisheries Science Center, Data and Information Systems Branch,  U.S. Department of Commerce. If you want more info, my [LinkedIn](https://www.linkedin.com/in/cdixson/) page goes into all the boring details.
 
 - :guitar: I'm fan of Rush, Tool, and just about any 80's and 90's Metal.
 
