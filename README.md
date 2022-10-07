@@ -4,7 +4,7 @@
 
 - :guitar: I'm a fan of Rush, Tool, and just about any 80's and 90's Metal.
 
-- :toolbox: In my spare time, I dabble in woodworking, participate in amateur radio ([K1PRD](https://www.qrz.com/db/K1PRD)), visit the range (Walther & Sig Sauer preferred), read as much as possible, and relax on my local, town beach.
+- :toolbox: In my spare time, I dabble in woodworking, participate in amateur radio ([K1PRD](https://www.qrz.com/db/K1PRD)), visit the range (Walther & Sig Sauer preferred), read as much as possible, and relax on my local, [town beach](https://www.google.com/search?q=41.622324%2C+-70.366144&oq=41.622324%2C+-70.366144&aqs=chrome..69i57.7419j0j7&sourceid=chrome&ie=UTF-8).
 
 
 <!---
