@@ -1,4 +1,4 @@
-- :wave: Hi, I’m @CDixson, Chris. 
+- :wave: Hi, I’m @CDixson, Chris. You're viewing my personal GitHub page. My professional page is [here](https://https://github.com/cdixson1).
 
 - :business_suit_levitating: I’m a Programmer and Web Developer, contractor with IBSS CORP in support of NOAA Fisheries, Northeast Fisheries Science Center, Data and Information Systems Branch,  U.S. Department of Commerce. If you want more info, my [LinkedIn](https://www.linkedin.com/in/cdixson/) page goes into all the boring details.
 
